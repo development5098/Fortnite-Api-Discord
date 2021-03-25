@@ -1,6 +1,6 @@
 # Fortnite-Api-Discord
 
-#Setup
+Setup
 
 1.Go to https://discord.com/developers/applications
 
