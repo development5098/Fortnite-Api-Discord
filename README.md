@@ -12,6 +12,6 @@ Setup
 
 5.You will need to copy the token and paste in the config.json where its say bot token
 
-6.Click the little green button and wait until it says made by Development5098 
+6.Click the little green button and wait until it says made by development5098 
 
 7.Then your bot is online
